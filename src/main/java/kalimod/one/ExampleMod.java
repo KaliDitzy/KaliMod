@@ -47,7 +47,7 @@ public class ExampleMod implements ModInitializer {
         
         // Creative
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.NATURAL).register(content -> {
-        	content.addAfter(Items.COPPER_ORE, COBALT_ORE);
+        	content.addAfter(Items.DEEPSLATE_COPPER_ORE, COBALT_ORE);
         });
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(content -> {
         	content.addAfter(Items.RAW_COPPER, UNREFINED_COBALT);
