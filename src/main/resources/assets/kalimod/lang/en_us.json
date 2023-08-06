@@ -2,5 +2,6 @@
 	"block.kalimod.cobalt_ore": "Cobalt Ore",
 	"item.kalimod.unrefined_cobalt": "Unrefined Cobalt",
 	"item.kalimod.refined_cobalt": "Refined Cobalt",
-	"itemGroup.kalimod.kalimodgroup": "Kalimod"
+	"item.kalimod.cobalt_pickaxe": "Cobalt Pickaxe",
+	"itemGroup.kalimod.kalimodgroup": "KaliMod"
 }

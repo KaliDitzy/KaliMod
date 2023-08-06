@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        " / ",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "item": "kalimod:refined_cobalt"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+	    "item": "kalimod:cobalt_pickaxe",
+        "count": 1
+	},
+    "group": "cobalt_tools"
+}

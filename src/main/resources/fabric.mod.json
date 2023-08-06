@@ -1,11 +1,11 @@
 {
 	"schemaVersion": 1,
 	"id": "kalimod",
-	"version": "${version}",
+	"version": "1.0.0",
 	"name": "KaliMod",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
-		"Me!"
+		"KaliDitzy"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -16,10 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"kalimod.one.ExampleMod"
+			"kalimod.one.KaliMod"
 		],
 		"client": [
-			"kalimod.one.ExampleModClient"
+			"kalimod.one.KaliModClient"
 		]
 	},
 	"mixins": [
